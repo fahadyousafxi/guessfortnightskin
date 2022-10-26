@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904229543682",
+    "project_id": "guess-fortnight-skins",
+    "storage_bucket": "guess-fortnight-skins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904229543682:android:13bc6d0cba195ed06a2c1b",
+        "android_client_info": {
+          "package_name": "codeprisma.guess.skins.dance.characters.codeprisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904229543682-3qfa7gaidn2jmfs8bs9vcpsns13qhlnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI45O8rxfl5cP_B30-mO94Gn-tMdVMOhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904229543682-3qfa7gaidn2jmfs8bs9vcpsns13qhlnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
